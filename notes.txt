@@ -1,0 +1,3 @@
+Grid system bootstrap
+if we said col-6 that means = this div will take 6/12 from the screen which is half of the screen
+and so on 
