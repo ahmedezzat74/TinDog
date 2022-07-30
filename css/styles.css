@@ -44,7 +44,7 @@ p {
 
 #title .container-fluid {
     padding: 3% 15% 7% ;
-    text-align: left;
+    /* text-align: left; */
 }
 
 
@@ -81,7 +81,7 @@ p {
     width: 20%;
     transform: rotate(25deg);
     position: absolute;
-    right: 30% ;
+    right: 23% ;
 }
 
 /* feature section  */
@@ -169,16 +169,15 @@ p {
     margin: 20px 10px ;
 }
 
-@media (max-width: 1028px) {
+@media (max-width:1028px){
 
 .title-image{
     transform: rotate(0deg);
     position: static;
     width: 60%;
 }
-
-#title{
+    
+#title {
     text-align: center;
 }
-
 }
